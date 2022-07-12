@@ -13,7 +13,7 @@
 }
 
 .style-switcher .open {
-    transform: translateX(-25px);
+    transform: translateX(-100px);
 }
 
 .style-switcher .s-icon {
@@ -54,7 +54,7 @@
 
 .style-switcher .colors {
     display: flex;
-    flex-wrap: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
