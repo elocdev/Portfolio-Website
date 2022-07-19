@@ -37,7 +37,7 @@ window.addEventListener("load", () => {
 })
 
 var typed = new Typed(".typing",{
-    strings:["", "Aspiring Web Developer", "Electrical Engineer"],
+    strings:["", "Aspiring Web Developer", "Avionics Test Engineer"],
     typeSpeed:100,
     BackSpeed:100,
     loop:true
